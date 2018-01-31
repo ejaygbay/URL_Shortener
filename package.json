@@ -1,0 +1,11 @@
+{
+    "script": {
+        "start": "shortener.js"
+    },
+    "name": "url_shortener",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "^4.16.2",
+        "nodemon": "^1.14.11"
+    }
+}
